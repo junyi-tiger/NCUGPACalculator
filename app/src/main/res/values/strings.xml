@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPACalculator</string>
+    <string name="introduction">欢迎使用NCU GPA Calculator！您可以使用这款APP自动查询、计算学分绩点。</string>
+    <string name="create_new">创建新的纪录</string>
+    <string name="import_new">教务系统导入</string>
+    <string name="find_old">查看历史纪录</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="more">更多功能敬请期待...</string>
+    <string name="about">Written By Yi Jun 18/8\n交流、反馈请联系邮箱：\nyijun0226@foxmail.com\n\n另：\nQQ：705018614\n欢迎骚扰！！！</string>
+    <string name="title_activity_about">aboutActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
